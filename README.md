@@ -30,10 +30,6 @@ We also explored the integration of TAMER with reinforcement learning (TAMER+RL)
 *  Python 3.8 or higher
 *  Libraries: `gym`, `numpy`, `pygame`, `matplotlib`
 
-Install dependencies using:
-
-````pip install -r requirements.txt````
-
 ### Run the Experiments
 1. Clone this repository:
 
