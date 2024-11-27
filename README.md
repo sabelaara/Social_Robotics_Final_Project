@@ -55,7 +55,9 @@ Our experiments demonstrated that:
   
 ## Contributors
 Sabela Ara Solla
+
 Sofía Hernández Pérez
+
 Alejandra Valle López
 
 ## Acknowledgments
