@@ -19,29 +19,15 @@ We also explored the integration of TAMER with reinforcement learning (TAMER+RL)
 *  **TAMER+RL Hybrid**: Testing the combination of human feedback with Q-learning to try improving learning stability and efficiency.
 
 ## Repository Structure
-* `/src`: Python scripts for training agents in different environments.
-  *  `run.py`: Main script to run experiments.
-  *  `tamer.py`: Implementation of the TAMER framework.
-* `/docs`: Documentation, including the project report and references.
-* `/results`: Performance data and visualizations from experiments.
+* `tamer`: # Core TAMER framework components
+  *  `agent.py`: # Main agent logic
+  *  `interface.py`: # Interface for user interaction
+* `run.py`:  # Main entry point for the program
 
 ## How to Use
 ### Requirements
 *  Python 3.8 or higher
 *  Libraries: `gym`, `numpy`, `pygame`, `matplotlib`
-
-### Run the Experiments
-1. Clone this repository:
-
-```git clone https://github.com/sabelaara/Social_Robotics_Final_Project```
-
-2. Navigate to the project directory:
-
-```cd social-robotics-final```
-
-3. Start an experiment:
-
-```python src/run.py```
 
 ### Results Summary
 Our experiments demonstrated that:
