@@ -33,7 +33,7 @@ We also explored the integration of TAMER with reinforcement learning (TAMER+RL)
 ### Run the Experiments
 1. Clone this repository:
 
-```git clone https://github.com/your-username/social-robotics-final.git```
+```git clone https://github.com/sabelaara/Social_Robotics_Final_Project```
 
 2. Navigate to the project directory:
 
