@@ -45,7 +45,7 @@ Install dependencies using:
 
 3. Start an experiment:
 
-``python src/run.py````
+```python src/run.py```
 
 ### Results Summary
 Our experiments demonstrated that:
