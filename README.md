@@ -19,10 +19,10 @@ We also explored the integration of TAMER with reinforcement learning (TAMER+RL)
 *  **TAMER+RL Hybrid**: Testing the combination of human feedback with Q-learning to try improving learning stability and efficiency.
 
 ## Repository Structure
-* `tamer`: # Core TAMER framework components
-  *  `agent.py`: # Main agent logic
+* `tamer`: Core TAMER framework components
+  *  `agent.py`: Main agent logic
   *  `interface.py`: # Interface for user interaction
-* `run.py`:  # Main entry point for the program
+* `run.py`:  Main entry point for the program
 
 ## How to Use
 ### Requirements
